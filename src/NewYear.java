@@ -21,7 +21,9 @@ public class NewYear extends JFrame{
         
         ImageIcon image1 = new ImageIcon("newYear2.jpg");
         image2 = new ImageIcon("newYear1.gif");
+        //https://images.app.goo.gl/MKUdGCBnU7JwYS3c7
         ImageIcon image3 = new ImageIcon("sun.png");
+        //https://www.flaticon.com/free-icons/sun
 
         setIconImage(image3.getImage());
 
